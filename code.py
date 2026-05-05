@@ -1,0 +1,1 @@
+print("NARENDRA * 2")
